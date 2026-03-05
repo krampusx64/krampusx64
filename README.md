@@ -19,7 +19,7 @@
 
 > *Not a guru. Not a trader. Just someone who showed up every single day and kept building.*
 
-I got into crypto at 17, bought my first ETH with freelance money, and never looked back. While most people were arguing about prices on Twitter, I was deploying contracts on testnet, breaking things, fixing them, and shipping again.
+I got into crypto at 24, bought my first ETH with freelance money, and never looked back. While most people were arguing about prices on Twitter, I was deploying contracts on testnet, breaking things, fixing them, and shipping again.
 
 Now I'm deep in the most interesting part of the whole space: **where AI agents meet on-chain infrastructure**. Autonomous systems that can transact, negotiate, and operate without a human in the loop. We're not there yet — but I'm building toward it.
 
